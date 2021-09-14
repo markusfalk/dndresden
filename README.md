@@ -1,6 +1,6 @@
 # DnDresden
 
-This page explains how the dice are reviewed and what category means what.
+This page explains how the dice are reviewed and what each category means what.
 
 ## Review Process
 
@@ -51,3 +51,13 @@ Styling aims to incorporate the level of detail or the love that went into desig
 ### Coolness
 
 A somewhat subjective measure on how much fun I have using the dice for playing, collecting or fotographing.
+
+## Dice Classes
+
+Also, there are classes for the dice. The class itself does not influence the score. Rather it is an indicator for rareness or price.
+
+- Wood: cheap dice sets with no special design or typography.
+- Stone: standard dice sets, usually from known vendors.
+- Silver: These dice sets are the upper middle class with some special design.
+- Gold (norse foundry): Special care is taken to produce these extraordinary dice.
+- Legendary: The rarest of them all. Created with exceptional and outstanding creativity or attention to material and production quality.
