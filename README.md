@@ -1,6 +1,6 @@
 # DnDresden
 
-This page explains how the dice are reviewed and what each category means what.
+This page explains how the dice are reviewed and what each score category and class means.
 
 ## Review Process
 
