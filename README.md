@@ -1,4 +1,4 @@
-# DnDresden
+# DnDresden Dice Review System
 
 This page explains how the dice are reviewed and what each score category and class means.
 
