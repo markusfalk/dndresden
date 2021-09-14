@@ -6,11 +6,11 @@ This page explains how the dice are reviewed and what category means what.
 
 The set under review will be used in a gaming setup to test different conditions and I will take them out for foto shoots. Only after they went through these steps will I rate the different categories and assign a final score.
 
-## Weighted Average
+## How the score is calculated
 
 The score is a weighted average as I believe some categories are more important than others.
 
-Weights:
+These are the weights I am using:
 
 - Readability: 3
 - Playability: 2
@@ -23,8 +23,9 @@ Weights:
 
 ### Readability
 
-Readability is such an important factor for actually using the dice in a game that I decided to make this its own category next to Playabillity.
-This score determines how well can numbers on the dice be read under differnt lighting conditions and environments.
+Readability is such an important factor for actually using the dice in a game that I decided to make this its own category next to playability.
+
+This score determines how well can numbers or other words on the dice be read under different lighting conditions and environments.
 
 ### Playability
 
@@ -50,15 +51,3 @@ Styling aims to incorporate the level of detail or the love that went into desig
 ### Coolness
 
 A somewhat subjective measure on how much fun I have using the dice for playing, collecting or fotographing.
-
-## Properties
-
-- Material (Eisenbarren, Amboss, Hammer, holzscheit)
-  - Raisin
-  - Metal
-  - Glas
-  - Wood
-  - Stone
-  - Bone
-- Weight (Gewicht, Rucksack)
-- Size (Dreiecks-Linieal)
