@@ -35,9 +35,9 @@ Playabillity considers how well the dice can be used in an actual game or if the
 
 Quality describes how well the dice are manufactured and trys to answer questions like:
 
-Is paint within their molds?
-Are all edges either well rounded or sharp egdged as advertised?
-Are there any scratches out of the box or bubbles within a pull of raisin dice?
+- Is paint within their molds?
+- Are all edges either well rounded or sharp egdged as advertised?
+- Are there any scratches out of the box or bubbles within a pull of raisin dice?
 
 ### Value
 
@@ -55,8 +55,8 @@ A somewhat subjective measure on how much fun I have using the dice for playing,
 
 Also, there are classes for the dice. The class itself does not influence the score. Rather it is an indicator for rareness or price.
 
-- Wood: cheap dice sets with no special design or typography.
-- Stone: standard dice sets, usually from known vendors.
-- Silver: These dice sets are the upper middle class with some special design.
-- Gold (norse foundry): Special care is taken to produce these extraordinary dice.
+- Wood: cheap dice sets with no special design.
+- Stone: standard dice sets.
+- Silver: These dice sets are the upper middle class with some special design or material.
+- Gold: Special care is taken to produce these extraordinary dice.
 - Legendary: The rarest of them all. Created with exceptional and outstanding creativity or attention to material and production quality.
