@@ -29,7 +29,7 @@ This score determines how well can numbers or other words on the dice be read un
 
 ### Playability
 
-Playabillity considers how well the dice can be used in an actual game or if they are meant as a collectors item. This category tries to answer if the dice are well balanced or made with high precision.
+Playabillity considers how well the dice can be used in an actual game or if they are meant as a collectors item. This category tries to answer if the dice are well balanced or made with high precision. Also some materials are quite sensitve and are not meant for heavy duty rolling which would decrease the score for this category.
 
 ### Quality
 
@@ -38,7 +38,6 @@ Quality describes how well the dice are manufactured and trys to answer question
 Is paint within their molds?
 Are all edges either well rounded or sharp egdged as advertised?
 Are there any scratches out of the box or bubbles within a pull of raisin dice?
-How durable are they?
 
 ### Value
 
