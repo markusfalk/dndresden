@@ -41,7 +41,7 @@ Quality describes how well the dice are manufactured and trys to answer question
 
 ### Value
 
-Value determines if the set is worth the price you are paying. More expensive does not mean more valuable. I am trying to establish a score that gives you a reference to the price and how much the dice might degrade over time.
+Value determines if the set is worth the price you are paying. More expensive does not mean more valuable. I am trying to establish a category that gives you a reference to the price and how much the dice might degrade over time.
 
 ### Styling
 
