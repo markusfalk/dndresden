@@ -47,15 +47,15 @@ Value determines if the set is worth the price you are paying. More expensive do
 
 Styling aims to incorporate the level of detail or the love that went into designing the dice. Is this set a very creative piece of art or are they not much to look at.
 
-### Coolness
+### Appeal
 
-A somewhat subjective measure on how much fun I have using the dice for playing, collecting or fotographing.
+A somewhat subjective measure on how much fun I have using the dice for playing, collecting or fotographing. Or simply a measure of how cool I think they are.
 
 ## Dice Classes
 
 Also, there are classes for the dice. The class itself does not influence the score. Rather it is an indicator for rareness or price.
 
-- Wood: cheap dice sets with no special design.
+- Wood: cheap, practical and usable dice sets with no special design.
 - Stone: standard dice sets.
 - Silver: These dice sets are the upper middle class with some special design or material.
 - Gold: Special care is taken to produce these extraordinary dice.
