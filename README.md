@@ -2,6 +2,7 @@
 
 This page explains how the dice are reviewed and what each score category and class means.
 
+
 ## Review Process
 
 The set under review will be used in a gaming setup to test different conditions and I will take them out for foto shoots. Only after they went through these steps will I rate the different categories and assign a final score.
@@ -10,6 +11,8 @@ The set under review will be used in a gaming setup to test different conditions
 
 The score is a weighted average as I believe some categories are more important than others.
 
+<img src="https://raw.githubusercontent.com/markusfalk/dndresden/main/dice%20review%20scoring%20system.jpg" alt="dice review scoring system" style="width: 50%;max-width: 100%; height: auto;" />
+
 These are the weights I am using:
 
 - Readability: 3
@@ -17,7 +20,7 @@ These are the weights I am using:
 - Quality: 1
 - Value: 1
 - Styling: 0.75
-- Coolness: 0.5
+- Appeal: 0.5
 
 ## Categories
 
@@ -53,7 +56,11 @@ A somewhat subjective measure on how much fun I have using the dice for playing,
 
 ## Dice Classes
 
+
 Also, there are classes for the dice. The class itself does not influence the score. Rather it is an indicator for rareness or price.
+
+
+<img src="https://raw.githubusercontent.com/markusfalk/dndresden/main/dice%20review%20classes.jpg" alt="dice review classes" style="width: 50%; max-width: 100%; height: auto;" />
 
 - Wood: cheap, practical and usable dice sets with no special design.
 - Stone: standard dice sets.
