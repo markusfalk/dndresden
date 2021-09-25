@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  website:
+    image: nginx:alpine
+    container_name: "dndresden-dice-review"
+    restart: always
+    ports:
+      - "2222:80"
+    volumes:
+      - ./:/usr/share/nginx/html

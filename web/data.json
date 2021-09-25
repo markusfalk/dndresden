@@ -1,0 +1,49 @@
+{
+  "reviews": [
+    {
+      "image": "",
+      "material": "wood",
+      "vendor": "Norse Foundry",
+      "title": "Black Obsidian",
+      "totalscore": 1,
+      "scores": {
+        "readability": 3,
+        "playability": 0,
+        "quality": 0,
+        "value": 0,
+        "styling": 0,
+        "appeal": 0
+      }
+    },
+    {
+      "image": "",
+      "material": "resin",
+      "vendor": "Q Workshop",
+      "title": "Yennefer",
+      "totalscore": 2,
+      "scores": {
+        "readability": 2,
+        "playability": 0,
+        "quality": 0,
+        "value": 0,
+        "styling": 0,
+        "appeal": 0
+      }
+    },
+    {
+      "image": "",
+      "material": "resin",
+      "vendor": "Dice4Friends",
+      "title": "gold",
+      "totalscore": 3,
+      "scores": {
+        "readability": 1,
+        "playability": 0,
+        "quality": 0,
+        "value": 0,
+        "styling": 0,
+        "appeal": 0
+      }
+    }
+  ]
+}
