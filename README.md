@@ -41,7 +41,7 @@ Quality describes how well the dice are manufactured and trys to answer question
 
 - Is paint within their molds?
 - Are all edges either well rounded or sharp egdged as advertised?
-- Are there any scratches out of the box or bubbles within a pull of raisin dice?
+- Are there any scratches out of the box or bubbles within a pull of resin dice?
 
 ### Value
 
