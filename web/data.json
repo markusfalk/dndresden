@@ -1,48 +1,83 @@
 {
   "reviews": [
     {
-      "image": "",
-      "material": "wood",
-      "vendor": "Norse Foundry",
-      "title": "Black Obsidian",
-      "totalscore": 1,
+      "reviewUrl": "https://www.instagram.com/p/CURuoJisvuY/",
+      "name": "nidhoeggr",
+      "material": "metal",
+      "vendor": "worldofdice",
+      "title": "Nidhöggr",
+      "totalscore": 7.090909,
       "scores": {
-        "readability": 3,
-        "playability": 0,
-        "quality": 0,
-        "value": 0,
-        "styling": 0,
-        "appeal": 0
+        "readability": 5,
+        "playability": 8,
+        "quality": 6,
+        "value": 9,
+        "styling": 10,
+        "appeal": 10
       }
     },
     {
-      "image": "",
+      "reviewUrl": "https://www.instagram.com/p/CUj7viOMdaF/",
+      "name": "dice-macabre",
       "material": "resin",
-      "vendor": "Q Workshop",
-      "title": "Yennefer",
-      "totalscore": 2,
+      "vendor": "qworkshop",
+      "title": "Dice Macabre",
+      "totalscore": 6.363636,
       "scores": {
-        "readability": 2,
-        "playability": 0,
-        "quality": 0,
-        "value": 0,
-        "styling": 0,
-        "appeal": 0
+        "readability": 4,
+        "playability": 7,
+        "quality": 9,
+        "value": 6,
+        "styling": 10,
+        "appeal": 8
       }
     },
     {
-      "image": "",
+      "reviewUrl": "https://www.instagram.com/p/CUNUrAPsnGw/",
+      "name": "confetti-candyfloss",
       "material": "resin",
-      "vendor": "Dice4Friends",
-      "title": "gold",
-      "totalscore": 3,
+      "vendor": "dice4friends",
+      "title": "Confetti: Candyfloss",
+      "totalscore": 6.939393,
       "scores": {
-        "readability": 1,
-        "playability": 0,
-        "quality": 0,
-        "value": 0,
-        "styling": 0,
-        "appeal": 0
+        "readability": 8,
+        "playability": 6,
+        "quality": 8,
+        "value": 5,
+        "styling": 7,
+        "appeal": 6
+      }
+    },
+    {
+      "reviewUrl": "https://www.instagram.com/p/CULGzzGM7YX/",
+      "name": "classic-rpg-smokey-white",
+      "material": "resin",
+      "vendor": "qworkshop",
+      "title": "Classic RPG smokey & white",
+      "totalscore": 8.393939,
+      "scores": {
+        "readability": 9,
+        "playability": 7, 
+        "quality": 9,
+        "value": 10,
+        "styling": 7,
+        "appeal": 8
+      }
+    },
+    {
+      "reviewUrl": "https://www.instagram.com/p/CT9Zb8HMPuE/",
+      "name": "opaque-black-blue",
+      "material": "acrylic",
+      "vendor": "dice4friends",
+      "title": "Opaque Black+Blue",
+      "totalscore": 6.151515,
+      "scores": {
+        "readability": 6,
+        "playability": 8,
+        "quality": 5,
+        "value": 8,
+        "styling": 3,
+        "appeal": 3
       }
     }
   ]

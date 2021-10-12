@@ -20,7 +20,7 @@
   };
 
   removeList = () => {
-    const list = document.querySelector("ul");
+    const list = document.querySelector("#list ul");
     listContainer.removeChild(list);
   };
 
@@ -28,16 +28,9 @@
     const ul = document.createElement("ul");
     data.forEach((element) => {
       const template = `
-        <li>
-          <strong>${element.title}</strong> <br>
-          score: ${element.totalscore} <br>
-          readability: ${element.scores.readability} <br>
-          playability: ${element.scores.playability} <br>
-          quality: ${element.scores.quality} <br>
-          value: ${element.scores.value} <br>
-          styling: ${element.scores.styling} <br>
-          appeal: ${element.scores.appeal}
-        </li>
+        <a href="${element.reviewUrl}" title="view review scores on instagram" >
+          <img loading="lazy" src="assets/img/${element.vendor}-${element.name}.jpg" alt="${element.title}" height="760" width="512" />
+        </a>
       `;
       const child = document.createElement("li");
       child.innerHTML = template;
@@ -46,9 +39,15 @@
     listContainer.appendChild(ul);
   };
 
+  setClass = (button) => {
+    document.querySelector(".active").classList.remove("active");
+    document.querySelector(`#${button}`).classList.add("active");
+  };
+
   setupEvents = () => {
     sortButtons.forEach((button) => {
       button.addEventListener("click", (event) => {
+        setClass(button.id);
         sortData(event.target.dataset.sortby);
       });
     });

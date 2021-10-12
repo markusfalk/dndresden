@@ -5,24 +5,62 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="main.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap"
+      rel="stylesheet"
+    />
     <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
-    <title>Document</title>
+    <title>DnDresden Dice Reviews</title>
   </head>
   <body>
+    <div class="logo">
+      <a href="https://www.instagram.com/dndresden/">
+        <img
+          src="assets/img/dndresden-logo.png"
+          height="512"
+          width="512"
+          alt="DnDresden Logo"
+        />
+      </a>
+    </div>
     <h1>DnDresden Dice Review</h1>
 
-    <div class="sortby">
+    <nav class="sortby">
       <p>sort by:</p>
-      <button data-sortby="totalscore">totalscore</button>
-      <button data-sortby="scores.readability">readability</button>
-      <button data-sortby="scores.playability">playability</button>
-      <button data-sortby="scores.quality">quality</button>
-      <button data-sortby="scores.value">value</button>
-      <button data-sortby="scores.styling">styling</button>
-      <button data-sortby="scores.appeal">appeal</button>
-    </div>
+      <ul>
+        <li>
+          <button data-sortby="totalscore" id="totalscore" class="active">
+            totalscore
+          </button>
+        </li>
+        <li>
+          <button data-sortby="scores.readability" id="readability">
+            readability
+          </button>
+        </li>
+        <li>
+          <button data-sortby="scores.playability" id="playability">
+            playability
+          </button>
+        </li>
+        <li>
+          <button data-sortby="scores.quality" id="quality">quality</button>
+        </li>
+        <li><button data-sortby="scores.value" id="value">value</button></li>
+        <li>
+          <button data-sortby="scores.styling" id="styling">styling</button>
+        </li>
+        <li><button data-sortby="scores.appeal" id="appeal">appeal</button></li>
+      </ul>
+    </nav>
 
-    <div id="list"></div>
+    <main id="list"></main>
+
+    <footer>
+      <a href="https://www.markus-falk.com/">Imprint</a>
+    </footer>
   </body>
   <script src="main.js"></script>
 </html>
