@@ -3,21 +3,65 @@
   padding: 0;
 }
 
-body, html {
+body,
+html {
   font-size: 10px;
   background-color: #111;
-  /* background: #111 url('/assets/img/bg.svg') no-repeat;
-  background-size: cover; */
-  font-family: 'IM Fell English SC',
-  serif;
+  font-family: "IM Fell English SC", serif;
+}
+
+main {
+  padding: 0 3rem;
+}
+
+/* typography */
+
+h1,
+h2,
+h3,
+p,
+img,
+li {
+  color: #fff;
+  margin-bottom: 1.8rem;
+  font-weight: normal;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+  padding-top: 3rem;
 }
 
 h1 {
-  font-size: 3rem;
-  text-align: center;
+  padding-top: 0;
+  font-size: 3.2rem;
+}
+
+h2 {
+  font-size: 2.8rem;
+}
+
+h3 {
+  font-size: 2.4rem;
+}
+
+li,
+p {
   color: #ccc;
-  margin-bottom: 3rem;
-  font-weight: normal;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 1.8rem;
+}
+
+.list {
+  padding-left: 5rem;
+}
+
+.list li {
+  margin: 0;
 }
 
 img {
@@ -25,23 +69,22 @@ img {
   height: auto;
 }
 
+/* navigation */
+
 .logo {
   margin: 0 auto;
   max-width: 50%;
   text-align: center;
+  display: block;
 }
 
-li {
-  padding: 5px;
-  list-style: none;
-  margin: 5px;
-  text-align: center;
+.logo img {
+  margin: 0;
 }
 
 button {
   padding: 5px 10px;
-  font-family: 'IM Fell English SC',
-  serif;
+  font-family: "IM Fell English SC", serif;
   border: 0;
   background: #333;
   color: #fff;
@@ -69,13 +112,48 @@ button {
   flex-wrap: wrap;
 }
 
+.dice-list li,
+.sortby li {
+  padding: 1rem;
+  list-style: none;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
 footer {
   padding: 2rem;
   text-align: center;
 }
 
+/* navigation */
+
+.nav-main ul {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.nav-main li {
+  list-style: none;
+  padding: 10px;
+  margin: 0;
+}
+
+.nav-main strong,
+.nav-main a,
 footer a {
-  font-size: 1.2rem;
+  font-family: "IM Fell English SC", serif;
+  font-size: 1.8rem;
   line-height: 2;
+  color: #fff;
+}
+
+.nav-main a:link,
+.nav-main a:visited {
+  color: #666;
+}
+.nav-main a:hover,
+.nav-main a:active,
+.nav-main a:focus {
   color: #fff;
 }
