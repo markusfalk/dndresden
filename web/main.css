@@ -83,13 +83,30 @@ img {
 }
 
 button {
-  padding: 5px 10px;
-  font-family: "IM Fell English SC", serif;
-  border: 0;
   background: #333;
-  color: #fff;
+  border-radius: 3px;
+  border: 0;
   border: 2px solid #666666;
+  color: #fff;
+  font-family: "IM Fell English SC", serif;
   font-size: 1.6rem;
+  padding: 5px 10px;
+}
+
+.score {
+  background-image: url(assets/img/score-board.png);
+  background-repeat: no-repeat;
+  color: #fff;
+  font-family: "IM Fell English SC", serif;
+  font-size: 5rem;
+  height: 116px;
+  left: -25px;
+  line-height: 116px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+  top: -25px;
+  width: 116px;
 }
 
 .active {
@@ -118,6 +135,11 @@ button {
   list-style: none;
   text-align: center;
   margin-bottom: 1rem;
+}
+
+.dice-list a {
+  display: inline-block;
+  position: relative;
 }
 
 footer {
