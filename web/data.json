@@ -1,5 +1,103 @@
 {
+  "upcoming": [
+    {
+      "reviewUrl": "",
+      "name": "arcanum",
+      "material": "metal",
+      "vendor": "emberdice",
+      "title": "Arcanum",
+      "totalscore": 8.181818,
+      "scores": {
+        "readability": 7,
+        "playability": 8,
+        "quality": 10,
+        "value": 8,
+        "styling": 10,
+        "appeal": 10
+      }
+    },
+    {
+      "reviewUrl": "",
+      "name": "candysweet-frost-ice",
+      "material": "acrylic",
+      "vendor": "dice4friends",
+      "title": "Candysweet Frost Ice",
+      "totalscore": 9.121212,
+      "scores": {
+        "readability": 10,
+        "playability": 10,
+        "quality": 9,
+        "value": 10,
+        "styling": 5,
+        "appeal": 5
+      }
+    },
+    {
+      "reviewUrl": "",
+      "name": "blue-cateye",
+      "material": "glass",
+      "vendor": "norsefoundry",
+      "title": "Blue Cateye",
+      "totalscore": 8.545454,
+      "scores": {
+        "readability": 9,
+        "playability": 7,
+        "quality": 10,
+        "value": 7,
+        "styling": 10,
+        "appeal": 10
+      }
+    }
+  ],
   "reviews": [
+    {
+      "reviewUrl": "https://www.instagram.com/p/CV95epkIbbc/",
+      "name": "black-walnut",
+      "material": "black walnut",
+      "vendor": "norsefoundry",
+      "title": "Black Walnut",
+      "totalscore": 5.757575,
+      "scores": {
+        "readability": 4,
+        "playability": 8,
+        "quality": 6,
+        "value": 5,
+        "styling": 6,
+        "appeal": 8
+      }
+    },
+    {
+      "reviewUrl": "https://www.instagram.com/p/CVrwKaLMBYQ/",
+      "name": "halloween-pumpkin-black-orange",
+      "material": "resin",
+      "vendor": "qworkshop",
+      "title": "Hallloween Pumpkin: black & orange",
+      "totalscore": 7.272727,
+      "scores": {
+        "readability": 6,
+        "playability": 7,
+        "quality": 9,
+        "value": 8,
+        "styling": 10,
+        "appeal": 7
+      }
+    },
+    {
+      "reviewUrl": "https://www.instagram.com/p/CVZ4wODsEXr/",
+      "name": "raised-obsidian",
+      "material": "obsidian",
+      "vendor": "norsefoundry",
+      "title": "Raised Obsidian",
+      "totalscore": 4.484848,
+      "scores": {
+        "readability": 1,
+        "playability": 5,
+        "quality": 8,
+        "value": 6,
+        "styling": 8,
+        "appeal": 8
+      }
+    },
     {
       "reviewUrl": "https://www.instagram.com/p/CURuoJisvuY/",
       "name": "nidhoeggr",
