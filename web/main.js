@@ -29,10 +29,21 @@
     data.forEach((element, index) => {
       const template = `
         <a href="${element.reviewUrl}" title="view review scores on instagram" >
-          <div class="score">${index + 1}</div>
-          <img loading="lazy" src="assets/img/${element.vendor}-${
-        element.name
-      }.jpg" alt="${element.title}" height="760" width="512" />
+          <div class="score">
+          <div class="number">
+            ${index + 1}
+          </div>
+          <div class="desc">
+            Rank
+          </div>
+          </div>
+          <img 
+            loading="lazy" 
+            src="assets/img/${element.vendor}-${element.name}.jpg" 
+            alt="${element.title}" 
+            height="760" 
+            width="512" 
+          />
         </a>
       `;
       const child = document.createElement("li");
