@@ -21,4 +21,4 @@ jobs:
           port: 21
           local-dir: ./
           server-dir: /dice-reviews/htdocs/
-          dry-run: true
+          # dry-run: true
