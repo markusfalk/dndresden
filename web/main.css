@@ -98,15 +98,30 @@ button {
   background-repeat: no-repeat;
   color: #fff;
   font-family: "IM Fell English SC", serif;
-  font-size: 5rem;
   height: 116px;
   left: -25px;
-  line-height: 116px;
   position: absolute;
   text-align: center;
   text-decoration: none;
   top: -25px;
   width: 116px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.number,
+.desc {
+  line-height: 1;
+}
+
+.number {
+  font-size: 4.6rem;
+}
+
+.desc {
+  margin-top: 5px;
+  font-size: 1.4rem;
 }
 
 .active {
