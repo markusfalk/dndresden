@@ -187,8 +187,9 @@ footer a {
 
 .nav-main a:link,
 .nav-main a:visited {
-  color: #666;
+  color: #9f9f9f;
 }
+
 .nav-main a:hover,
 .nav-main a:active,
 .nav-main a:focus {
