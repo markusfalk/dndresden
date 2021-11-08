@@ -39,7 +39,7 @@
           </div>
           <img 
             loading="lazy" 
-            src="assets/img/${element.vendor}-${element.name}.jpg" 
+            src="assets/img/${element.vendor}-${element.name}.webp" 
             alt="${element.title}" 
             height="760" 
             width="512" 
