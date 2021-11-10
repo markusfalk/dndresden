@@ -2,6 +2,22 @@
   "upcoming": [
     {
       "reviewUrl": "",
+      "name": "mythical",
+      "material": "metal",
+      "vendor": "qworkshop",
+      "title": "Mythical",
+      "totalscore": 6.848484,
+      "scores": {
+        "readability": 5,
+        "playability": 7,
+        "quality": 10,
+        "value": 6,
+        "styling": 10,
+        "appeal": 8
+      }
+    },
+    {
+      "reviewUrl": "",
       "name": "arcanum",
       "material": "metal",
       "vendor": "emberdice",
