@@ -47,9 +47,11 @@
         "styling": 5,
         "appeal": 5
       }
-    },
+    }
+  ],
+  "reviews": [
     {
-      "reviewUrl": "",
+      "reviewUrl": "https://www.instagram.com/p/CWP7DS8ITxb/",
       "name": "blue-cateye",
       "material": "glass",
       "vendor": "norsefoundry",
@@ -63,9 +65,7 @@
         "styling": 10,
         "appeal": 10
       }
-    }
-  ],
-  "reviews": [
+    },
     {
       "reviewUrl": "https://www.instagram.com/p/CV95epkIbbc/",
       "name": "black-walnut",
