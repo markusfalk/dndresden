@@ -2,6 +2,38 @@
   "upcoming": [
     {
       "reviewUrl": "",
+      "name": "geralt",
+      "material": "resin",
+      "vendor": "qworkshop",
+      "title": "Geralt",
+      "totalscore": 6.787878,
+      "scores": {
+        "readability": 6,
+        "playability": 8,
+        "quality": 8,
+        "value": 5,
+        "styling": 8,
+        "appeal": 6
+      }
+    },
+    {
+      "reviewUrl": "",
+      "name": "yennefer",
+      "material": "resin",
+      "vendor": "qworkshop",
+      "title": "Yennefer",
+      "totalscore": 6.545454,
+      "scores": {
+        "readability": 5,
+        "playability": 8,
+        "quality": 8,
+        "value": 5,
+        "styling": 8,
+        "appeal": 8
+      }
+    },
+    {
+      "reviewUrl": "",
       "name": "mythical",
       "material": "metal",
       "vendor": "qworkshop",
