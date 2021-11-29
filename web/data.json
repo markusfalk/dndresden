@@ -50,22 +50,6 @@
     },
     {
       "reviewUrl": "",
-      "name": "arcanum",
-      "material": "metal",
-      "vendor": "emberdice",
-      "title": "Arcanum",
-      "totalscore": 8.181818,
-      "scores": {
-        "readability": 7,
-        "playability": 8,
-        "quality": 10,
-        "value": 8,
-        "styling": 10,
-        "appeal": 10
-      }
-    },
-    {
-      "reviewUrl": "",
       "name": "candysweet-frost-ice",
       "material": "acrylic",
       "vendor": "dice4friends",
@@ -82,6 +66,22 @@
     }
   ],
   "reviews": [
+     {
+      "reviewUrl": "https://www.instagram.com/p/CWz-J0gIuJW/",
+      "name": "arcanum",
+      "material": "metal",
+      "vendor": "emberdice",
+      "title": "Arcanum",
+      "totalscore": 8.181818,
+      "scores": {
+        "readability": 7,
+        "playability": 8,
+        "quality": 10,
+        "value": 8,
+        "styling": 10,
+        "appeal": 10
+      }
+    },
     {
       "reviewUrl": "https://www.instagram.com/p/CWP7DS8ITxb/",
       "name": "blue-cateye",
