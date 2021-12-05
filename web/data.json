@@ -2,6 +2,22 @@
   "upcoming": [
     {
       "reviewUrl": "",
+      "name": "borealis",
+      "material": "resin",
+      "vendor": "chessex",
+      "title": "Borealis Blue/White",
+      "totalscore": 6.878787,
+      "scores": {
+        "readability": 7,
+        "playability": 6,
+        "quality": 6,
+        "value": 8,
+        "styling": 7,
+        "appeal": 9
+      }
+    },
+    {
+      "reviewUrl": "",
       "name": "geralt",
       "material": "resin",
       "vendor": "qworkshop",
@@ -47,9 +63,11 @@
         "styling": 10,
         "appeal": 8
       }
-    },
+    }
+  ],
+  "reviews": [
     {
-      "reviewUrl": "",
+      "reviewUrl": "https://www.instagram.com/p/CXF_v-TotxX/",
       "name": "candysweet-frost-ice",
       "material": "acrylic",
       "vendor": "dice4friends",
@@ -63,9 +81,7 @@
         "styling": 5,
         "appeal": 5
       }
-    }
-  ],
-  "reviews": [
+    },
      {
       "reviewUrl": "https://www.instagram.com/p/CWz-J0gIuJW/",
       "name": "arcanum",
