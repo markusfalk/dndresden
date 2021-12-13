@@ -47,9 +47,11 @@
         "styling": 8,
         "appeal": 8
       }
-    },
+    }
+  ],
+  "reviews": [
     {
-      "reviewUrl": "",
+      "reviewUrl": "https://www.instagram.com/p/CXYBSXmoLv8/",
       "name": "mythical",
       "material": "metal",
       "vendor": "qworkshop",
@@ -63,9 +65,7 @@
         "styling": 10,
         "appeal": 8
       }
-    }
-  ],
-  "reviews": [
+    },
     {
       "reviewUrl": "https://www.instagram.com/p/CXF_v-TotxX/",
       "name": "candysweet-frost-ice",
