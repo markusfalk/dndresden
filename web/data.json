@@ -15,9 +15,11 @@
         "styling": 7,
         "appeal": 9
       }
-    },
+    }
+  ],
+  "reviews": [
     {
-      "reviewUrl": "",
+      "reviewUrl": "https://www.instagram.com/p/CXqC27voOI5/",
       "name": "geralt",
       "material": "resin",
       "vendor": "qworkshop",
@@ -33,7 +35,7 @@
       }
     },
     {
-      "reviewUrl": "",
+      "reviewUrl": "https://www.instagram.com/p/CXneF9DI_NS/",
       "name": "yennefer",
       "material": "resin",
       "vendor": "qworkshop",
@@ -47,9 +49,7 @@
         "styling": 8,
         "appeal": 8
       }
-    }
-  ],
-  "reviews": [
+    },
     {
       "reviewUrl": "https://www.instagram.com/p/CXYBSXmoLv8/",
       "name": "mythical",
