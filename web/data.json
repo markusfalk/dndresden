@@ -19,6 +19,22 @@
   ],
   "reviews": [
     {
+      "reviewUrl": "https://www.instagram.com/p/CX8LT4vIc7r/",
+      "name": "golden-eye",
+      "material": "resin",
+      "vendor": "dice4friends",
+      "title": "Golden Eye",
+      "totalscore": 5.242424,
+      "scores": {
+        "readability": 5,
+        "playability": 5,
+        "quality": 5,
+        "value": 5,
+        "styling": 7,
+        "appeal": 6
+      }
+    },
+    {
       "reviewUrl": "https://www.instagram.com/p/CXqC27voOI5/",
       "name": "geralt",
       "material": "resin",
