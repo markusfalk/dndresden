@@ -157,6 +157,16 @@ button {
   position: relative;
 }
 
+.dice-list ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.dice-list li {
+  max-width: 290px;
+}
+
 footer {
   padding: 2rem;
   text-align: center;
