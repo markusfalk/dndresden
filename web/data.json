@@ -1,7 +1,71 @@
 {
   "upcoming": [
+    {
+      "reviewUrl": "https://www.instagram.com/p/Cfi5BgZIi5v/",
+      "name": "rose-quartz-gemstone",
+      "material": "rose quartz",
+      "vendor": "crystalmaggie",
+      "title": "Rose Quartz Gemstone",
+      "totalscore": 6.484848,
+      "scores": {
+        "readability": 5,
+        "playability": 5,
+        "quality": 10,
+        "value": 6,
+        "styling": 10,
+        "appeal": 10
+      }
+    },
+    {
+      "reviewUrl": "",
+      "name": "blue-achat-gemstone",
+      "material": "blue achat",
+      "vendor": "urwizards",
+      "title": "Blue Achat Gemstone",
+      "totalscore": 6,
+      "scores": {
+        "readability": 5,
+        "playability": 5,
+        "quality": 10,
+        "value": 6,
+        "styling": 8,
+        "appeal": 5
+      }
+    },
+    {
+      "reviewUrl": "",
+      "name": "coral-fossil-gemstone",
+      "material": "coral fossil",
+      "vendor": "urwizards",
+      "title": "Coral Fossil Gemstone",
+      "totalscore": 6.242424,
+      "scores": {
+        "readability": 6,
+        "playability": 5,
+        "quality": 7,
+        "value": 6,
+        "styling": 8,
+        "appeal": 9
+      }
+    }
   ],
   "reviews": [
+    {
+      "reviewUrl": "https://www.instagram.com/p/Cfi5BgZIi5v/",
+      "name": "rose-quartz-gemstone",
+      "material": "rose quartz",
+      "vendor": "crystalmaggie",
+      "title": "Rose Quartz Gemstone",
+      "totalscore": 6.484848,
+      "scores": {
+        "readability": 5,
+        "playability": 5,
+        "quality": 10,
+        "value": 6,
+        "styling": 10,
+        "appeal": 10
+      }
+    },
     {
       "reviewUrl": "https://www.instagram.com/p/CYyjQq0IZzh/",
       "name": "elvish-black-glow",
